@@ -30,7 +30,7 @@
     - "createdAt": "2022-10-06T13:00:50.518Z"
       }
 
-- PUT localhost:8080/product/{id} (Atualiza o pedido do id informado // usar request body json como exemplo abaixo)
+- PUT localhost:8080/order/{id} (Atualiza o pedido do id informado // usar request body json como exemplo abaixo)
     - {
       "totalValue": 50000,
       "customerCode": 15,
